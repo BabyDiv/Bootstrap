@@ -1,0 +1,57 @@
+
+body {
+    background-image: url('https://images5.alphacoders.com/792/thumb-1920-792611.jpg');
+    background-attachment: fixed;
+}
+
+.col {
+    margin-top: 70px;
+}
+
+.my_favourite_cars {
+    display: flex;
+    justify-content: center;
+    color: pink;
+    font-weight: 900;
+    font-size: 44px;
+}
+
+.card-body {
+    background-color: black;
+    color: white;
+}
+
+.btn-primary {
+    background-color: pink;
+    color: black;
+}
+
+.row {
+    margin-left: 50px;
+}
+
+.track {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.carousel {
+    margin-left: -20px;
+}
+
+.navbar-brand {
+    font-family: 'Pixelify Sans', cursive;
+}
+
+.card-title, .card-text {
+    font-family: 'Pixelify Sans', cursive;
+    font-size: 18px;
+}
+.btn {
+    font-family: 'Pixelify Sans', cursive;
+}
+
+.dropdown-menu, .dropdown-item {
+    font-family: 'Pixelify Sans', cursive;
+}
